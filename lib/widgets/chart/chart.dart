@@ -14,7 +14,7 @@ class Chart extends StatelessWidget {
       ExpenseBucket.forCategory(expenses, Category.mobileBill),
       ExpenseBucket.forCategory(expenses, Category.netBill),
       ExpenseBucket.forCategory(expenses, Category.travel),
-      ExpenseBucket.forCategory(expenses, Category.work),
+      ExpenseBucket.forCategory(expenses, Category.work ),
     ];
   }
 
